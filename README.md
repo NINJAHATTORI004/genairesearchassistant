@@ -13,12 +13,15 @@
 
 A powerful AI-driven document assistant that helps you quickly understand and interact with your research materials. Upload PDFs or text files, get concise summaries, ask questions, and test your comprehension with intelligent quizzes. Perfect for students, researchers, and professionals who need to process large amounts of information efficiently.
 
----
-##NOTE:The application uses a web framework (ie. Streamlit, HuggingFace Interface) to present all features—document upload, summarization, Q&A, and challenge modes—through interactive web pages.
+**NOTE:**
+
+The application uses a web framework (ie. Streamlit, HuggingFace Interface) to present all features—document upload, summarization, Q&A, and challenge modes—through interactive web pages.
 
 Users access the tool in their browser, where they can upload documents, view summaries, ask questions, and receive answers in real time.
 
 UI elements like file uploaders, buttons, chat windows, and expanders are provided for a seamless, guided experience.
+---
+
 
 ## What Can It Do?
 
