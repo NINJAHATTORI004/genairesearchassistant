@@ -1,7 +1,7 @@
 
 
 
-# GenAI Sm- **Smart Document Processing**: Upload PDF or TXT files a---
+# GenAI Sm- **Smart Document Processing**: Upload PDF or TXT files 
 
 ## How to Use
 
