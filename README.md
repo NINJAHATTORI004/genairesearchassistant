@@ -1,7 +1,7 @@
 
 
 
-# GenAI-INSIGHTFUL  **Ask. Summarize. Discover. All in One Place**: EZ ASSESSMENT
+# GenAI-INSIGHTFUL-  **Ask. Summarize. Discover. All in One Place**: EZ ASSESSMENT
 <div align="center">
   <img height="300" src="https://github.com/NINJAHATTORI004/EZ-assessment/blob/main/1.jpg"  />
 </div>
