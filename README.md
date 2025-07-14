@@ -2,6 +2,18 @@
 
 
 # GenAI Sm- **Smart Document Processing**: Upload PDF or TXT files 
+<div align="center">
+  <img height="300" src="https://github.com/NINJAHATTORI004/EZ-assessment/blob/main/1.jpg"  />
+</div>
+<div align="center">
+  <img height="300" src="https://github.com/NINJAHATTORI004/EZ-assessment/blob/main/2.jpg"  />
+</div>
+<div align="center">
+  <img height="300" src="https://github.com/NINJAHATTORI004/EZ-assessment/blob/main/3.jpg"  />
+</div>
+<div align="center">
+  <img height="300" src="https://github.com/NINJAHATTORI004/EZ-assessment/blob/main/4.jpg"  />
+</div>
 
 ## How to Use
 
