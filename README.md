@@ -109,10 +109,7 @@ That's it! Your browser should automatically open to `http://localhost:8501` whe
 Found a bug or have an idea for improvement? Contributions are welcome! Feel free to:
 - Open an issue to report bugs or suggest features
 - Fork the repo and submit a pull request
-- Star the repository if you find it helpful
+- Star the repository if you find it helpful.
 
 ---
-
-
-
 -
